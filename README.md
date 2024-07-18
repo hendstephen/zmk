@@ -15,3 +15,4 @@ To review features, check out the [feature overview](https://zmk.dev/docs/). ZMK
 ## Features
 This is my personal fork of ZMK and includes the following changes:
 - [PR #1380](https://github.com/zmkfirmware/zmk/pull/1380) - leader key
+- [PR #1451](https://github.com/zmkfirmware/zmk/pull/1451) - num word, caps word improvements
